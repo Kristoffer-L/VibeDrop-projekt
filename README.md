@@ -1,5 +1,3 @@
-# [Live version](https://vibedrop-frontend.cc25.chasacademy.dev/)
-
 # Vibedrop – Användarguide
 
 Vibedrop är en modern webbapplikation för samarbete kring musikprojekt. Den här guiden hjälper dig att komma igång, utveckla, bygga och förstå de viktigaste funktionerna i frontend-projektet.
